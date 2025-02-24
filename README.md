@@ -1,3 +1,4 @@
 # hello-world
 For practicing Github workflow
-Thring to learn github workflows.
+Trying to learn github workflows.
+Updated new line
